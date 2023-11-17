@@ -1,0 +1,3 @@
+[submodule "Collection-Views"]
+	path = Collection-Views
+	url = git@github.com:c4arl0s/Collection-Views.git
